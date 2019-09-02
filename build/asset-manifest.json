@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/f2e2019_chatroom/build/static/css/main.0c20984a.chunk.css",
+    "main.js": "/f2e2019_chatroom/build/static/js/main.b25133f0.chunk.js",
+    "main.js.map": "/f2e2019_chatroom/build/static/js/main.b25133f0.chunk.js.map",
+    "runtime~main.js": "/f2e2019_chatroom/build/static/js/runtime~main.37d12653.js",
+    "runtime~main.js.map": "/f2e2019_chatroom/build/static/js/runtime~main.37d12653.js.map",
+    "static/js/2.f3b1e084.chunk.js": "/f2e2019_chatroom/build/static/js/2.f3b1e084.chunk.js",
+    "static/js/2.f3b1e084.chunk.js.map": "/f2e2019_chatroom/build/static/js/2.f3b1e084.chunk.js.map",
+    "index.html": "/f2e2019_chatroom/build/index.html",
+    "precache-manifest.72ea68892d8b47fd12b8a84178d1ac30.js": "/f2e2019_chatroom/build/precache-manifest.72ea68892d8b47fd12b8a84178d1ac30.js",
+    "service-worker.js": "/f2e2019_chatroom/build/service-worker.js",
+    "static/css/main.0c20984a.chunk.css.map": "/f2e2019_chatroom/build/static/css/main.0c20984a.chunk.css.map"
+  }
+}
