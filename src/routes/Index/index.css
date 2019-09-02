@@ -1,0 +1,17 @@
+.appBlock {
+  display: flex;
+}
+
+.appBlock .contentBlock {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.appBlock .contentBlock .enterNameBlock {
+  width: 600px;
+  height: 400px;
+  background-color: #262D5A;
+  padding: 35px 48px;
+}
